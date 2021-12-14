@@ -9,7 +9,7 @@
 ## Resumo
 - Eu sou o Vinicius Aires. Tenho 21 anos, formado em Comércio Exterior na FATEC de Barueri. 
 
-### Tecnologias
+## Tecnologias
 **Linguagens**
 - <code><img height="30" width="100" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 - <code><img height="30" width="100" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
@@ -24,3 +24,6 @@
 
 **Banco de Dados**
 - <code><img height="30" width="100" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+
+## Nível de conhecimento das tecnologias
+- 

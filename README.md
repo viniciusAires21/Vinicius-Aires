@@ -1,12 +1,13 @@
-# Vinicius Aires
+# Bem-vindo(a)!
 
+### Oque você verá aqui...
 <!--ts-->
    * [Resumo](#resumo)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-### Resumo
-- Tenho 21 anos, formado em Comércio Exterior na FATEC de Barueri. 
+## Resumo
+- Eu sou o Vinicius Aires. Tenho 21 anos, formado em Comércio Exterior na FATEC de Barueri. 
 
 ### Tecnologias
 **Linguagens**

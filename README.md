@@ -10,7 +10,7 @@
 
 ### Tecnologias
 **Linguagens**
-- <code><img height="20" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+- <code><img height="30" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 - Sass (Pré-processador de CSS)
 - JavaScript
 - Node.Js

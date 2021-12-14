@@ -17,8 +17,9 @@
 - <code><img height="30" width="100" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 
 **Bibliotecas e Frameworks**
-- React.Js
-- Express.Js
+- <code><img height="30" width="100" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+- <code><img height="30" width="100" src= "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
+- <code><img height="30" width="100" src= "https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"></code>
 
 **Banco de Dados**
-- MySQL
+- <code><img height="30" width="100" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>

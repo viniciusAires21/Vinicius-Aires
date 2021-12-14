@@ -1,6 +1,5 @@
 # Vinicius Aires
 
-=================
 <!--ts-->
    * [Resumo](#resumo)
    * [Tecnologias](#tecnologias)

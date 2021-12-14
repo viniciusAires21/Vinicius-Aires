@@ -11,7 +11,7 @@
 ### Tecnologias
 **Linguagens**
 - HTML e CSS
-- Sass (Pré processador de CSS)
+- Sass (Pré-processador de CSS)
 - JavaScript
 - Node.Js
 

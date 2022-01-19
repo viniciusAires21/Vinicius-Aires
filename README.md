@@ -9,7 +9,7 @@
 <!--te-->
 
 ## 🗃 Informações
-- Tenho 21 anos, sou formado em Comércio Exterior na Faculdade de Técnologia de São Paulo FATEC de Barueri. Estou cursando Análise e Desenvolvimento de Sistemas na FIAP. 
+- Tenho 21 anos, sou formado em Comércio Exterior na Faculdade de Técnologia de São Paulo (FATEC) de Barueri. Estou cursando Análise e Desenvolvimento de Sistemas na FIAP. 
 - No meu último ano na faculdade de Comércio Exterior, percebi que a área de desenvolvimento era o que eu queria de fato. Então comecei a fazer alguns cursos online, na Alura, comecei com Front-end, depois Beck-end e Banco de Dados.
 - Formações da Alura que fiz: 
    - Formação Excel VBA
@@ -33,7 +33,7 @@
 [![Conhecimento JavaScript Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)]()
 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
-- SASS é uma linguegem de extensão do CSS, um pré processador CSS, a sigla significa "Syntactically Awesome Style Sheets". Ela traz algumas funcionalidades bem úteis para os projetos com CSS.\ 
+- SASS é uma linguegem de extensão do CSS, um pré processador CSS, a sigla significa "Syntactically Awesome Style Sheets". Ela traz algumas funcionalidades bem úteis para os projetos com CSS.\
 [![Conhecimento SASS Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-red)]()
 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=5ccfee)]()
@@ -50,7 +50,7 @@
 
 [![Passport.js Badge](https://img.shields.io/badge/Passport-35df79?style=for-the-badge&logo=passport&logoColor=white)]()
 - Passport é um middleware de autenticação para Node.js.\
-[![Conhecimento Passport.js Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-red)]()
+[![Conhecimento Passport Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
 
 [![Sequeliza Badge](https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)]()
 - Sequelize é um ORM(Object/Relational Mapper) baseado em Promise para Node.js. Promise é um objeto usado no processamento assíncrono, que representa um valor que pode estar disponível agora, no futuro ou nunca.\
@@ -58,15 +58,15 @@
 
 [![Expo Badge](https://img.shields.io/badge/Expo-422EDF?style=for-the-badge&logo=expo&logoColor=white)]()
 - Expo é uma ferramenta utilizada no desenvolvimento mobile com React Native sem precisar instalar qualquer dependência ou alterar código nativo.\
-[![Conhecimento Expo Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-red)]()
+[![Conhecimento Expo Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
 
 [![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 - MySQL é um sistema de gerenciamento de database, operando na linguagem SQL.\
-[![Conhecimento MySQL Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-red)]()
+[![Conhecimento MySQL Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
 
 ### Tecnologias que estou estudando ou pretendo estudar
 
 [![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()\
 [![C++ Badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue)]()\
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()\
-[![Angular Badge](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red)]()\
+[![Angular Badge](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red)]()

@@ -2,15 +2,15 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/viniciusAires21)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/vinicius-aires/)
-### 🙋‍♂️ Em relação a mim
+## 🙋‍♂️ Em relação a mim
 <!--ts-->
    [Informações](#informações)
    [Tecnologias](#tecnologias)
 <!--te-->
 
-### 🗃 Informações
-- Tenho 21 anos, sou formado em Comércio Exterior na Faculdade de Técnologia de São Paulo [FATEC]('https://fatecbarueri.edu.br/home/') de Barueri. Estou cursando Análise e Desenvolvimento de Sistemas na [FIAP]('https://www.fiap.com.br/?gclid=CjwKCAiA55mPBhBOEiwANmzoQt9JfqM6QVSHuCP-9DCZ0aw2JdfHqVP2xnGDLxcPVb0UfmoOLD6r9RoCulMQAvD_BwE'). 
-- No meu último ano na faculdade de Comércio Exterior, percebi que a área de desenvolvimento era o que eu queria de fato. Então comecei a fazer alguns cursos online, na [Alura]('https://www.alura.com.br/'), comecei com Front-end, depois Beck-end e Banco de Dados.
+## 🗃 Informações
+- Tenho 21 anos, sou formado em Comércio Exterior na Faculdade de Técnologia de São Paulo FATEC de Barueri. Estou cursando Análise e Desenvolvimento de Sistemas na FIAP. 
+- No meu último ano na faculdade de Comércio Exterior, percebi que a área de desenvolvimento era o que eu queria de fato. Então comecei a fazer alguns cursos online, na Alura, comecei com Front-end, depois Beck-end e Banco de Dados.
 - Formações da Alura que fiz: 
    - Formação Excel VBA
    - Formação SQL com MySQL Server da Oracle
@@ -19,10 +19,11 @@
    - Formação React JS
    - Formação Node.js com Express
 
-### ⌨️ Tecnologias
+## ⌨️ Tecnologias
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![JavaScript Badge](https://img.shields.io/amo/stars/conhecimento?style=flat-square)]()
 -
 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()

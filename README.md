@@ -10,7 +10,7 @@
 
 ## 🗃 Informações
 - Tenho 21 anos, sou formado em Comércio Exterior na Faculdade de Técnologia de São Paulo (FATEC) de Barueri. Estou cursando Análise e Desenvolvimento de Sistemas na FIAP. 
-- No meu último ano na faculdade de Comércio Exterior, percebi que a área de desenvolvimento era o que eu queria de fato. Então comecei a fazer alguns cursos online, na Alura, comecei com Front-end, depois Beck-end e Banco de Dados.
+- No meu último ano na faculdade de Comércio Exterior, percebi que a área de desenvolvimento era o que eu queria de fato. Então comecei a fazer alguns cursos online, na Alura, comecei com Front-end, depois Back-end e Banco de Dados.
 - Formações da Alura que fiz: 
    - Formação Excel VBA
    - Formação SQL com MySQL Server da Oracle
@@ -45,7 +45,7 @@
 [![Conhecimento Styled-Components Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
 
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-- Node.js pode ser definido, básicamente, como um ambiente de execução JavaScript no beck-end. Que possuí semelhanças com linguagens de programação compiladas, porque o Node.js roda em uma máquina virtual V8 que pré-compila e otimiza o código antes de entrar em execução. A tecnologia trabalha em apenas uma thread de execução, é uma tecnologia assíncrona, ou seja, cada requisição feita ao Node não bloqueia o seu processo. Desta forma o volume de execuções que a tecnologia suporta é muito grande mesmo sendo single thread.\
+- Node.js pode ser definido, básicamente, como um ambiente de execução JavaScript no back-end. Que possuí semelhanças com linguagens de programação compiladas, porque o Node.js roda em uma máquina virtual V8 que pré-compila e otimiza o código antes de entrar em execução. A tecnologia trabalha em apenas uma thread de execução, é uma tecnologia assíncrona, ou seja, cada requisição feita ao Node não bloqueia o seu processo. Desta forma o volume de execuções que a tecnologia suporta é muito grande mesmo sendo single thread.\
 [![Conhecimento Node.js Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
 
 [![Express.js Badge](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)]()

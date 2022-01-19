@@ -40,6 +40,10 @@
 - React é uma biblioteca JavaScript open source com a finalidade de criar interfaces de usuário (UI) na web, criada pelo Facebook.\
 [![Conhecimento React Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
 
+[![Styled-Components Badge](https://img.shields.io/badge/Styled_Components-CB7EBC?style=for-the-badge&logo=styled-components&logoColor=white)]()
+- Styled-Components é uma biblioteca para React e React Native para estilização da interface de usuário. A escrita é uma mistura de JavaScript e CSS.\
+[![Conhecimento Styled-Components Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
+
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 - Node.js pode ser definido, básicamente, como um ambiente de execução JavaScript no beck-end. Que possuí semelhanças com linguagens de programação compiladas, porque o Node.js roda em uma máquina virtual V8 que pré-compila e otimiza o código antes de entrar em execução. A tecnologia trabalha em apenas uma thread de execução, é uma tecnologia assíncrona, ou seja, cada requisição feita ao Node não bloqueia o seu processo. Desta forma o volume de execuções que a tecnologia suporta é muito grande mesmo sendo single thread.\
 [![Conhecimento Node.js Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()

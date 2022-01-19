@@ -28,7 +28,7 @@
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 - SASS é uma linguegem de extensão do CSS, um pré processador CSS, a sigla significa "Syntactically Awesome Style Sheets". Ela traz algumas funcionalidades bem úteis para os projetos com CSS.
 
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)]()
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=5ccfee)]()
 - React é uma biblioteca JavaScript open source com a finalidade de criar interfaces de usuário (UI) na web, criada pelo Facebook.   
 
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()

@@ -68,6 +68,10 @@
 - MySQL é um sistema de gerenciamento de database, operando na linguagem SQL.\
 [![Conhecimento MySQL Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
 
+[![Git Badge](https://img.shields.io/badge/GIT-e84d31?style=for-the-badge&logo=git&logoColor=white)]()
+- Git é um sistema de controle de versões distribuído. \
+[![Conhecimento Git Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
+
 ### Tecnologias que estou estudando ou pretendo estudar
 
 [![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()\

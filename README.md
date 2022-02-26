@@ -77,4 +77,5 @@
 [![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()\
 [![C++ Badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue)]()\
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()\
-[![Angular Badge](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red)]()
+[![Angular Badge](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red)]()\
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green)]()

@@ -81,5 +81,5 @@
 [![Angular Badge](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red)]()\
 [![Python Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)]()\
 [![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()\
-[![C Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=blue)]()\
+[![C Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=blue)]()
 

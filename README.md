@@ -32,6 +32,10 @@
 - JavaScript é uma linguagem de script de alto nível com tipagem dinâmica fraca e multiparadigma. Tipagem dinâmica fraca é o tipo de tipagem da linguagem, ou seja, não é especificado o tipo de dado, o tipo dos dados podem ser modificados dinamicamente. Multiparadigma que dizer que o JavaScript suporta mais de um paradigma de programação, exemplos de paradigmas de programação: programação orientada a objeto, programação funcional, paradigma de lógica de programação, entre outros.\
 [![Conhecimento JavaScript Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)]()
 
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()\
+- TypeScript é um superset de Javascript.
+[![Conhecimento Sequelize Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
+
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 - SASS é uma linguegem de extensão do CSS, um pré processador CSS, a sigla significa "Syntactically Awesome Style Sheets". Ela traz algumas funcionalidades bem úteis para os projetos com CSS.\
 [![Conhecimento SASS Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-red)]()
@@ -74,8 +78,8 @@
 
 ### Tecnologias que estou estudando ou pretendo estudar
 
-[![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()\
-[![C++ Badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=blue)]()\
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()\
 [![Angular Badge](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red)]()\
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green)]()
+[![Python Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)]()\
+[![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()\
+[![C Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=blue)]()\
+

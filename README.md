@@ -33,7 +33,7 @@
 [![Conhecimento JavaScript Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)]()
 
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()
-- TypeScript é um superset de Javascript.
+- TypeScript é um superset de Javascript.\
 [![Conhecimento Sequelize Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()

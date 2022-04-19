@@ -32,7 +32,7 @@
 - JavaScript é uma linguagem de script de alto nível com tipagem dinâmica fraca e multiparadigma. Tipagem dinâmica fraca é o tipo de tipagem da linguagem, ou seja, não é especificado o tipo de dado, o tipo dos dados podem ser modificados dinamicamente. Multiparadigma que dizer que o JavaScript suporta mais de um paradigma de programação, exemplos de paradigmas de programação: programação orientada a objeto, programação funcional, paradigma de lógica de programação, entre outros.\
 [![Conhecimento JavaScript Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)]()
 
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()\
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()
 - TypeScript é um superset de Javascript.
 [![Conhecimento Sequelize Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
 

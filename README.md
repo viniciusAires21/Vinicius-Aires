@@ -21,7 +21,7 @@
 
 ## 💻 Soft Skills
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-- HTML é uma linguagem de marcação usada para construção de páginas web, os documentos HTML são interpretados pelos navegasdores. Basicamente o "esqueleto" de uma página web.\
+- HTML é uma linguagem de marcação usada para construção de páginas web, os documentos HTML são interpretados pelos navegasdores. Basicamente o "esqueleto" de uma página web.\··
 [![Conhecimento HTML Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)]()
 
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -77,5 +77,5 @@
 [![Conhecimento Ansible Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
 
 ### Tecnologias que estou estudando ou pretendo estudar
-[![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()\
+[![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()
 

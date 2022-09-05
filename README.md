@@ -19,7 +19,7 @@
    - Formação React JS
    - Formação Node.js com Express
 
-## 💻 Tecnologias
+## 💻 Soft Skills
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 - HTML é uma linguagem de marcação usada para construção de páginas web, os documentos HTML são interpretados pelos navegasdores. Basicamente o "esqueleto" de uma página web.\
 [![Conhecimento HTML Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen)]()
@@ -34,15 +34,15 @@
 
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)]()
 - TypeScript é um superset de Javascript.\
-[![Conhecimento Sequelize Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
+[![Conhecimento Sequelize Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 - SASS é uma linguegem de extensão do CSS, um pré processador CSS, a sigla significa "Syntactically Awesome Style Sheets". Ela traz algumas funcionalidades bem úteis para os projetos com CSS.\
-[![Conhecimento SASS Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-red)]()
+[![Conhecimento SASS Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow)]()
 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=5ccfee)]()
 - React é uma biblioteca JavaScript open source com a finalidade de criar interfaces de usuário (UI) na web, criada pelo Facebook.\
-[![Conhecimento React Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
+[![Conhecimento React Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green)]()
 
 [![Styled-Components Badge](https://img.shields.io/badge/Styled_Components-CB7EBC?style=for-the-badge&logo=styled-components&logoColor=white)]()
 - Styled-Components é uma biblioteca para React e React Native para estilização da interface de usuário. A escrita é uma mistura de JavaScript e CSS.\
@@ -56,17 +56,9 @@
 - Express.js é um framework para Node.js que fornece recursos para construção de servidores web.\
 [![Conhecimento Express.js Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
 
-[![Passport.js Badge](https://img.shields.io/badge/Passport-35df79?style=for-the-badge&logo=passport&logoColor=white)]()
-- Passport é um middleware de autenticação para Node.js.\
-[![Conhecimento Passport Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
-
 [![Sequeliza Badge](https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)]()
 - Sequelize é um ORM(Object/Relational Mapper) baseado em Promise para Node.js. Promise é um objeto usado no processamento assíncrono, que representa um valor que pode estar disponível agora, no futuro ou nunca.\
 [![Conhecimento Sequelize Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
-
-[![Expo Badge](https://img.shields.io/badge/Expo-422EDF?style=for-the-badge&logo=expo&logoColor=white)]()
-- Expo é uma ferramenta utilizada no desenvolvimento mobile com React Native sem precisar instalar qualquer dependência ou alterar código nativo.\
-[![Conhecimento Expo Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
 
 [![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 - MySQL é um sistema de gerenciamento de database, operando na linguagem SQL.\
@@ -74,12 +66,16 @@
 
 [![Git Badge](https://img.shields.io/badge/GIT-e84d31?style=for-the-badge&logo=git&logoColor=white)]()
 - Git é um sistema de controle de versões distribuído. \
-[![Conhecimento Git Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow)]()
+[![Conhecimento Git Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
+
+[![Vagrant Badge](https://img.shields.io/badge/Vagrant-white?style=for-the-badge&logo=vagrant&logoColor=blue)]()
+- Vagrant é um software de código aberto para criar e manter ambientes de desenvolvimento virtuais. Ele aproveita um arquivo de configuração declarativo que descreve todos os seus requisitos de software, pacotes, configuração do sistema operacional, usuários e muito mais.  \
+[![Conhecimento Vagrant Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
+
+[![Ansible Badge](https://img.shields.io/badge/ansible-white?style=for-the-badge&logo=ansible&logoColor=black)]()
+- Ansible é uma ferramenta de automação de TI que pode configurar sistemas, implantar aplicativos e provisionar recursos de nuvem. Ele usa uma abordagem de desenvolvimento de código declarativo para criar e gerenciar configurações. \
+[![Conhecimento Ansible Badge](https://img.shields.io/badge/N%C3%ADvel%20de%20Conhecimento-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)]()
 
 ### Tecnologias que estou estudando ou pretendo estudar
-
-[![Angular Badge](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red)]()\
-[![Python Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)]()\
 [![Java Badge](https://img.shields.io/badge/Java-e01e23?style=for-the-badge&logo=java&logoColor=0c83bd)]()\
-[![C Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=blue)]()
 
